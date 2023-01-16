@@ -15,14 +15,8 @@
 
 .alphabet {
   font-size: 60px;
+  border: solid 1px black;
 }
 .vs {
   font-size: 30px;
-}
-
-.checked {
-  color: blue;
-}
-.unchecked {
-  color: red;
 }

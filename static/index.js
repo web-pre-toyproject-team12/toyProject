@@ -10,23 +10,23 @@ const startButton = document.getElementById("start-button");
 const alphabets = document.querySelectorAll(".alphabet");
 
 const changeCheck = (a) => {
-  if (a.classList.contains("checked")) {
+  if (a.classList.contains("btn-info")) {
     return;
   }
   let b = a.innerHTML;
   console.log(b);
   if (b == "E" || b == "I") {
-    E.classList.toggle("checked");
-    I.classList.toggle("checked");
+    E.classList.toggle("btn-info");
+    I.classList.toggle("btn-info");
   } else if (b == "S" || b == "N") {
-    S.classList.toggle("checked");
-    N.classList.toggle("checked");
+    S.classList.toggle("btn-info");
+    N.classList.toggle("btn-info");
   } else if (b == "T" || b == "F") {
-    T.classList.toggle("checked");
-    F.classList.toggle("checked");
+    T.classList.toggle("btn-info");
+    F.classList.toggle("btn-info");
   } else if (b == "J" || b == "P") {
-    J.classList.toggle("checked");
-    P.classList.toggle("checked");
+    J.classList.toggle("btn-info");
+    P.classList.toggle("btn-info");
   }
 };
 
@@ -36,7 +36,7 @@ for (let i = 0; i < alphabets.length; i++) {
 }
 
 const getStart = () => {
-  let c = document.querySelectorAll(".checked");
+  let c = document.querySelectorAll(".btn-info");
   let mbti = "";
   c.forEach((item) => (mbti += item.innerHTML));
   let SearchParams = new URLSearchParams(location.search);
