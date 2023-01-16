@@ -16,30 +16,60 @@
   <body>
     <div class="container" id="body">
       <div id="title">MBTI 유형별 특징</div>
+      <div id="login-area">
+        <div>
+          <div class="form-floating mb-3">
+            <input
+              type="email"
+              class="form-control"
+              id="floatingInput"
+              placeholder="name@example.com"
+            />
+            <label for="floatingInput">Email address</label>
+          </div>
+          <div class="form-floating">
+            <input
+              type="password"
+              class="form-control"
+              id="floatingPassword"
+              placeholder="Password"
+            />
+            <label for="floatingPassword">Password</label>
+          </div>
+          <!-- <button id="sign_up_button">회원가입 하기</button> -->
+          <button id="sign_in_button">로그인 하기</button>
+        </div>
+      </div>
       <div id="selecet-area">
         <div class="row">
-          <button id="E" class="col alphabet btn btn-info">E</button>
+          <button id="E" class="col-1 alphabet btn btn-info">E</button>
           <div class="col vs">vs</div>
-          <button id="I" class="col alphabet btn">I</button>
+          <button id="I" class="col-1 alphabet btn">I</button>
         </div>
         <div class="row">
-          <button id="S" class="col alphabet btn btn-info">S</button>
+          <button id="S" class="col-1 alphabet btn btn-info">S</button>
           <div class="col vs">vs</div>
-          <button id="N" class="col alphabet btn">N</button>
+          <button id="N" class="col-1 alphabet btn">N</button>
         </div>
         <div class="row">
-          <button id="T" class="col alphabet btn btn-info">T</button>
+          <button id="T" class="col-1 alphabet btn btn-info">T</button>
           <div class="col vs">vs</div>
-          <button id="F" class="col alphabet btn">F</button>
+          <button id="F" class="col-1 alphabet btn">F</button>
         </div>
         <div class="row">
-          <button id="J" class="col alphabet btn btn-info">J</button>
+          <button id="J" class="col-1 alphabet btn btn-info">J</button>
           <div class="col vs">vs</div>
-          <button id="P" class="col alphabet btn">P</button>
+          <button id="P" class="col-1 alphabet btn">P</button>
         </div>
       </div>
       <div>
-        <button id="start-button">시작하기</button>
+        <button
+          class="w-btn-outline w-btn-indigo-outline"
+          id="start-button"
+          type="button"
+        >
+          결과 보기
+        </button>
       </div>
     </div>
     <script
@@ -47,6 +77,7 @@
       integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
       crossorigin="anonymous"
     ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="../static/index.js"></script>
   </body>
 </html>
