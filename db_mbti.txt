@@ -1,4 +1,407 @@
 
+mbti유형별 특징_데이터베이스ㅎㅎㅎㅎㅎ
+
+ISTJ
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f611.svg"
+
+name: "현실주의자"
+
+keyword: "사실을 중시하는 믿음직한 현실주의자"
+
+ex_2
+
+des: "옛 방식대로 하면 당연히 쉽겠지만 재밌는 길은 새로 개척하는 법!"
+
+name: "현실주의자"
+
+keyword: "사실을 중시하는 믿음직한 현실주의자"
+
+ex_3
+
+des: "ESTJ가 주워 모은 코코넛을 분류해서 재고 리스트를 만든다."
+
+name: "현실주의자"
+
+keyword: "사실을 중시하는 믿음직한 현실주의자"
+
+ISTP
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f636.svg"
+
+name: "장인"
+
+keyword: "모든 종류의 도구를 자유자재로 다루는 장인"
+
+ex_2
+
+des: "감성 최고최고 난..ㄱr끔..갬성에..취한ㄷr...★"
+
+name: "장인"
+
+keyword: "모든 종류의 도구를 자유자재로 다루는 장인"
+
+ex_3
+
+des: "이것 저것 주워서 창도 만들고 뭐든 잡아와서 저녁식사를 준비한다."
+
+name: "장인"
+
+keyword:  "모든 종류의 도구를 자유자재로 다루는 장인"
+
+ISFJ
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f603.svg"
+
+name: "수호자"
+
+keyword: "주변 사람을 보호할 준비가 되어 있는 헌신적이고 따뜻한 수호자"
+
+ex_2
+
+des: "친구들이랑 약속이 있었던 것 같지만 난 암벽타기 하러 갈거야! 스포츠 최고!"
+
+name: "수호자"
+
+keyword: "주변 사람을 보호할 준비가 되어 있는 헌신적이고 따뜻한 수호자"
+
+ex_3
+
+des: "모든 사람들을 감시하고 걱정하며 모래에 조개로 크게 SOS를 쓴다."
+
+name: "수호자"
+
+keyword: "주변 사람을 보호할 준비가 되어 있는 헌신적이고 따뜻한 수호자"
+
+ISFP
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f607.svg"
+
+name: "모험가"
+
+keyword: "항상 새로운 경험을 추구하는 유연하고 매력 넘치는 예술가"
+
+ex_2
+
+des: "으...너무 오그라들어...감성 극혐..각자 자기 일이나 잘 하시지?"
+
+name: "모험가"
+
+keyword: "항상 새로운 경험을 추구하는 유연하고 매력 넘치는 예술가"
+
+ex_3
+
+des: "야자나무에 기대어 앉아서 석양을 감상한다." 
+
+name: "모험가"
+
+keyword: "항상 새로운 경험을 추구하는 유연하고 매력 넘치는 예술가"
+
+INTJ
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f612.svg"
+
+name: "전략가"
+
+keyword: "모든 일에 대해 계획을 세우며 상상력이 풍부한 전략가"
+
+ex_2
+
+des: "계획? 그거 먹는거얌? 됐어 난 클럽이나 가야지 사람 만나는거 최고!"
+
+name: "전략가"
+
+keyword: "모든 일에 대해 계획을 세우며 상상력이 풍부한 전략가"
+
+ex_3
+
+des: "ISTJ의 재고리스트에 비효율적인 부분을 지적한다."
+
+name: "전략가"
+
+keyword: "모든 일에 대해 계획을 세우며 상상력이 풍부한 전략가"
+
+INTP
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f634.svg"
+
+name: "논리술사"
+
+keyword: "지식을 끝없이 갈망하는 혁신적인 발명가"
+
+ex_2
+
+des: "과학계를 뒤집을 보고서고 나발이고 어제 아이유가 인스타에 뭐 올렸대?"
+
+name: "논리술사"
+
+keyword: "지식을 끝없이 갈망하는 혁신적인 발명가"
+
+ex_3
+
+des: "2년쯤 전에 위키피디아에서 본 식물을 찾겠다며 사라져서 길을 잃는다."
+
+name: "논리술사"
+
+keyword: "지식을 끝없이 갈망하는 혁신적인 발명가"
+
+INFJ
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f61a.svg"
+
+name: "옹호자"
+
+keyword: "다른 사람에게 의욕을 불어넣는 이상주의자"
+
+ex_2
+
+des: "저기 산이 있네! 계획을 다 짜놓은 일정이 있지만 때려치고 등산이나 해볼까?"
+
+name: "옹호자"
+
+keyword: "다른 사람에게 의욕을 불어넣는 이상주의자"
+
+ex_3
+
+des: "이 섬에서 가장 이상적인 사회적 구조를 기획한다."
+
+name: "옹호자"
+
+keyword: "다른 사람에게 의욕을 불어넣는 이상주의자"
+
+INFP
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f60a.svg"
+
+name: "중재자"
+
+keyword: "항상 선을 행할 준비가 되어 있는 부드럽고 친절한 이타주의자"
+
+ex_2
+
+des: "사람이 다 둥글둥글 맞춰가면서 사는거지 뭐. 가식 좀 떠는게 뭐가 나빠?"
+
+name: "중재자"
+
+keyword: "항상 선을 행할 준비가 되어 있는 부드럽고 친절한 이타주의자"
+
+ex_3
+
+des: "가까운 산에 올라가 자아발견의 시간을 갖는다."
+
+name: "중재자"
+
+keyword: "항상 선을 행할 준비가 되어 있는 부드럽고 친절한 이타주의자"
+
+ESTJ
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f624.svg"
+
+name: "경영자"
+
+keyword: "사물과 사람을 관리하는데 뛰어난 능력을 지닌 경영자"
+
+ex_2
+
+des: "당장 마감인 일이 있지만... 고양이가 너무 귀여워서 광광 웁니다"
+
+name: "경영자"
+
+keyword: "사물과 사람을 관리하는데 뛰어난 능력을 지닌 경영자"
+
+ex_3
+
+des: "부지런히 코코넛을 주워 모은다."
+
+name: "경영자"
+
+keyword: "사물과 사람을 관리하는데 뛰어난 능력을 지닌 경영자"
+
+ESTP
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f60e.svg"
+
+name: "사업가"
+
+keyword: "영리하고 에너지 넘치며 관찰력이 뛰어난 사업가"
+
+ex_2
+
+des: "그거 못하겠는데요"
+
+name: "사업가"
+
+keyword: "영리하고 에너지 넘치며 관찰력이 뛰어난 사업가"
+
+ex_3
+
+des: "ISTJ가 정리한 코코넛을 경매에 붙여서 비싸게 팔아 넘긴다."
+
+name: "사업가"
+
+keyword: "영리하고 에너지 넘치며 관찰력이 뛰어난 사업가"
+
+ESFJ
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f606.svg"
+
+name: "집정관"
+
+keyword: "인기가 많고 사교성 높은 마당발"
+
+ex_2
+
+des: "맨날 나한테 이거해달라 저거해달라 하지 좀 말아라 너가 스스로 해"
+
+name: "집정관"
+
+keyword: "인기가 많고 사교성 높은 마당발"
+
+ex_3
+
+des: "ESFP를 위해 하와이 파티를 열어준다."
+
+name: "집정관"
+
+keyword: "인기가 많고 사교성 높은 마당발"
+
+ESFP
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f61c.svg"
+
+name: "연예인"
+
+keyword: "즉흥적이고 넘치는 에너지와 열정으로 주변 사람을 즐겁게 하는 연예인"
+
+ex_2
+
+des: "사람 많은거 제일 극혐... 사람 만나는게 제일 싫어 집에서 미적분이나 풀고 싶다."
+
+name: "연예인"
+
+keyword: "즉흥적이고 넘치는 에너지와 열정으로 주변 사람을 즐겁게 하는 연예인"
+
+ex_3
+
+des: "하와이 파티를 열자고 모두에게 귀찮게 군다."
+
+name: "연예인"
+
+keyword: "즉흥적이고 넘치는 에너지와 열정으로 주변 사람을 즐겁게 하는 연예인"
+
+ENTJ
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f60c.svg"
+
+name: "통솔자"
+
+keyword: "대담하고 상상력이 풍부하며 의지가 강력한 지도자"
+
+ex_2
+
+des: "프리허그..해드립니다... ^^싫음..말..구..(쭈굴)"
+
+name: "통솔자"
+
+keyword: "대담하고 상상력이 풍부하며 의지가 강력한 지도자"
+
+ex_3
+
+des: "ISFJ가 SOS로 쓴 조개를 몰래 들고와 13층짜리 야자수 호텔을 기획한다."
+
+name: "통솔자"
+
+keyword: "대담하고 상상력이 풍부하며 의지가 강력한 지도자"
+
+ENTP
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f60f.svg"
+
+name: "변론가"
+
+keyword: "지적 도전을 즐기는 영리하고 호기심이 많은 사색가"
+
+ex_2
+
+des: "옛 선조님들 방식대로 해야지 괜히 요즘 것들은 새로운 방식으로 하고 난리야"
+
+name: "통솔자"
+
+keyword: "지적 도전을 즐기는 영리하고 호기심이 많은 사색가"
+
+ex_3
+
+des: "바나나 잎으로 열기구를 만들어 올라가 좋아하지만, 내려가는 방법은 생각 안했다."
+
+name: "통솔자"
+
+keyword: "지적 도전을 즐기는 영리하고 호기심이 많은 사색가"
+
+ENFJ
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f601.svg"
+
+name: "선도자"
+
+keyword: "청중을 사로잡고 의욕을 불어넣는 카리스마 넘치는 지도자"
+
+ex_2
+
+des: "무슨 문제만 터지면 나한테 말하려고 하지마 솔직히 다 노관심임"
+
+name: "선도자"
+
+keyword: "청중을 사로잡고 의욕을 불어넣는 카리스마 넘치는 지도자"
+
+ex_3
+
+des: "구출선을 불러오겠다며 섬을 나갔다가 3일 뒤 거지꼴로 돌아온다."
+
+name: "선도자"
+
+keyword: "청중을 사로잡고 의욕을 불어넣는 카리스마 넘치는 지도자"
+
+ENFP
+
+ex_1 
+
+img: "https://www.emojiall.com/images/svg/twitter/1f60d.svg"
+
+name: "활동가"
+
+keyword: "긍정적으로 삶을 바라보는 사교적이면서도 자유로운 영혼"
+
+
 ex_2
 
 des: "걍 나무위키 복붙 해야겠다 창의력 그런거 쥐어짜도 안나와"
