@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <meta property="og:title" content="🎬Movie Storage" />
+    <meta
+      property="og:description"
+      content="인기 영화를 확인하고 리뷰를 남겨보세요!"
+    />
+    <meta
+      property="og:image"
+      content="https://images.unsplash.com/photo-1634157703702-3c124b455499?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80"
+    />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap"
+      rel="stylesheet"
+    />
+    <link href="/static/css/emoji.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="innerContainer">
+      <div class="header">
+        <h2>내가 선택한 MBTI는?</h2>
+      </div>
+      <div class="mbtiDesc">
+        <div class="imgBox">
+          <div class="view back">
+            <img
+              src="https://www.16personalities.com/static/images/personality-types/avatars/istj-logistician.png"
+              alt="emoji"
+            />
+          </div>
+          <div class="view front">
+            <div>dd</div>
+          </div>
+        </div>
+        <div class="descBox">
+          <p class="desc">title</p>
+          <p class="desc">detail</p>
+        </div>
+      </div>
+      <div class="navButtonContainer">
+        <button class="emoji">emoji</button>
+        <button class="never">neverword</button>
+        <button class="island">island</button>
+      </div>
+    </div>
+    <div class="reviewContainer">
+      <div class="mypost">
+        <div class="input-group mb-3">
+          <label class="input-group-text" for="selectbox">MBTI</label>
+          <select id="selectbox" class="form-select">
+            <option selected value="all">-- MBTI를 선택하세요 --</option>
+            {% for i in mbti_name %} {% if i==selected_mbti %}
+            <option value="{{selected_mbti}}" selected>
+              {{selected_mbti}}
+            </option>
+            {% else %}
+            <option value="{{i}}">{{i}}</option>
+            {% endif %} {% endfor %}
+          </select>
+        </div>
+        <div class="input-group mb-3">
+          <span class="input-group-text">코멘트</span>
+          <textarea
+            class="form-control"
+            placeholder="코멘트를 남겨주세요"
+            id="comment"
+            style="height: 100px"
+          ></textarea>
+        </div>
+        <button onclick="posting()" type="button" class="btn btn-dark">
+          리뷰 남기기
+        </button>
+      </div>
+      <div class="review-box mb-3" id="cards-box"></div>
+    </div>
+    <script defer src="/static/js/emoji.js"></script>
+  </body>
+</html>
